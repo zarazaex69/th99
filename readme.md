@@ -37,11 +37,11 @@
 ### 💿 Classic Windows Era (2002-2004)
 *Requires: `wine-ge-custom`*
 
-| Ver | Title | Focus | Status |
-| :-: | :--- | :---: | :---: |
-| **TH06** | [**The Embodiment of Scarlet Devil**](Bin/TouhouEoSD) | Stability Fixes | 🟡 Wine XP |
-| **TH07** | [**Perfect Cherry Blossom**](Bin/PerfectCherryBlossom) | Best for Beginners | 🟢 Stable |
-| **TH08** | [**Imperishable Night**](Bin/ImperishableNight) | Fan Favorite | 🟢 Stable |
+| Ver | Title | Focus | 
+| :-: | :--- | :---: | 
+| **TH06** | [**The Embodiment of Scarlet Devil**](Bin/TouhouEoSD) | VS Shooter  |
+| **TH07** | [**Perfect Cherry Blossom**](Bin/PerfectCherryBlossom) | VS Shooter |
+| **TH08** | [**Imperishable Night**](Bin/ImperishableNight) | VS Shooter |
 
 ---
 
