@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Asset/banner.png" alt="Touhou Project Banner" width="75%" />
+<img src="Asset/banner.png" alt="Touhou Project Banner" width="400" />
 
 ![Platform](https://img.shields.io/badge/Platform-Arch%20Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Emulator](https://img.shields.io/badge/PC--98-Neko%20Project%20II-0D1117?style=for-the-badge)
@@ -69,4 +69,15 @@ Please support **ZUN** and **Team Shanghai Alice** by purchasing available games
 
 <div align="center">
   <i>"Girls are now preparing. Please watch warmly until it is ready."</i>
+</div>
+
+
+<div align="center">
+
+**Contact**
+- Telegram: [zarazaex](https://t.me/zarazaexe)
+- Email: zarazaex@tuta.io
+- Site: [zarazaex.xyz](https://zarazaex.xyz)
+
+
 </div>
