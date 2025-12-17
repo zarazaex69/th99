@@ -2,28 +2,27 @@
 
 <img src="Asset/banner.png" alt="Touhou Project Banner" width="100%" />
 
+![Platform](https://img.shields.io/badge/Platform-Arch%20Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Emulator](https://img.shields.io/badge/PC--98-Neko%20Project%20II-0D1117?style=for-the-badge)
+![Wine](https://img.shields.io/badge/Windows-Wine%20GE-0D1117?style=for-the-badge&logo=wine&logoColor=white)
+
 # Touhou Project: The Linux Preservation Archive
+
 ### TH01 — TH08 (Non-Steam Era)
 
-![Platform](https://img.shields.io/badge/Platform-Arch%20Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Emulator](https://img.shields.io/badge/PC--98-Neko%20Project%20II-orange?style=for-the-badge)
-![Wine](https://img.shields.io/badge/Windows-Wine%20GE-7b0663?style=for-the-badge&logo=wine&logoColor=white)
-![License](https://img.shields.io/badge/Status-Preservation-green?style=for-the-badge)
-
-<p align="center">
-  <b>Коллекция классических игр Touhou Project, настроенных для запуска на Linux.</b><br>
-   За пару минут
+#### <p align="center">
+  <b>A collection of classic Touhou Project games, configured to run on Linux.</b><br>
+In a couple of minutes
 </p>
 
 </div>
 
----
 
-## ⛩️ Game List & Status
+## Game List & Status
 
-Все игры настроены и протестированы. Нажмите на название, чтобы перейти к инструкции по запуску.
+All games are configured and tested. Click on the title to access the launch instructions.
 
-### 📼 PC-98 Era (1996-1998)
+###  PC-98 Era (1996-1998)
 *Requires: `np2kai-git`*
 
 | Ver | Title | Genre |
@@ -34,7 +33,7 @@
 | **TH04** | [**Lotus Land Story**](Bin/LotusLandStory) | Shooter |
 | **TH05** | [**Mystic Square**](Bin/MysticSquare) | Shooter |
 
-### 💿 Classic Windows Era (2002-2004)
+### Classic Windows Era (2002-2004)
 *Requires: `wine-ge-custom`*
 
 | Ver | Title | Focus | 
@@ -47,27 +46,26 @@
 
 ##  Prerequisites
 
-Убедитесь, что у вас установлены необходимые инструменты.
-
+Make sure you have the necessary tools installed.
 ### 1. Для PC-98 (TH01 - TH05)
-Вам нужен эмулятор **Neko Project II Kai**.
+ **Neko Project II Kai**.
 ```bash
 yay -S np2kai-git
 ```
 
 ### 2. Для Windows (TH06 - TH08)
-Вам нужен **Wine-GE**.
+ **Wine-GE**.
 ```bash
 yay -S wine-ge-custom
 ```
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 Проект создан исключительно в целях **сохранения истории видеоигр**.
 Игры TH01-TH08 официально не продаются в цифровых магазинах.
-Пожалуйста, поддержите **ZUN** и **Team Shanghai Alice**, покупая доступные игры (TH08+) в [Steam](https://store.steampowered.com/search/?developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3&ndl=1).
+Please support **ZUN** and **Team Shanghai Alice** by purchasing available games (TH08+) in [Steam](https://store.steampowered.com/search/?developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3&ndl=1).
 
 <div align="center">
   <i>"Girls are now preparing. Please watch warmly until it is ready."</i>
