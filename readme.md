@@ -61,10 +61,6 @@ yay -S wine-ge-custom
 
 ---
 
-## Disclaimer
-
-Проект создан исключительно в целях **сохранения истории видеоигр**.
-Игры TH01-TH08 официально не продаются в цифровых магазинах.
 Please support **ZUN** and **Team Shanghai Alice** by purchasing available games (TH08+) in [Steam](https://store.steampowered.com/search/?developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3&ndl=1).
 
 <div align="center">
