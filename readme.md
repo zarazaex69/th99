@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Asset/banner.png" alt="Touhou Project Banner" width="100%" />
+<img src="Asset/banner.png" alt="Touhou Project Banner" width="75%" />
 
 ![Platform](https://img.shields.io/badge/Platform-Arch%20Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Emulator](https://img.shields.io/badge/PC--98-Neko%20Project%20II-0D1117?style=for-the-badge)
