@@ -47,13 +47,13 @@ All games are configured and tested. Click on the title to access the launch ins
 ##  Prerequisites
 
 Make sure you have the necessary tools installed.
-### 1. Для PC-98 (TH01 - TH05)
+### 1. For PC-98 (TH01 - TH05)
  **Neko Project II Kai**.
 ```bash
 yay -S np2kai-git
 ```
 
-### 2. Для Windows (TH06 - TH08)
+### 2. For Windows (TH06 - TH08)
  **Wine-GE**.
 ```bash
 yay -S wine-ge-custom
