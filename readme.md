@@ -2,9 +2,9 @@
 
 <img src="Asset/banner.png" alt="Touhou Project Banner" width="400" />
 
-![Platform](https://img.shields.io/badge/Platform-Arch%20Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Emulator](https://img.shields.io/badge/PC--98-Neko%20Project%20II-0D1117?style=for-the-badge)
-![Wine](https://img.shields.io/badge/Windows-Wine%20GE-0D1117?style=for-the-badge&logo=wine&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Arch%20Linux-0D1117?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0D1117)
+![Emulator](https://img.shields.io/badge/PC--98-Neko%20Project%20II-0D1117?style=flat-square&labelColor=0D1117)
+![Wine](https://img.shields.io/badge/Windows-Wine%20GE-0D1117?style=flat-square&logo=wine&logoColor=white&labelColor=0D1117)
 
 # Touhou Project: The Linux Preservation Archive
 
