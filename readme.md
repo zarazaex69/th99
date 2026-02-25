@@ -34,7 +34,7 @@ All games are configured and tested. Click on the title to access the launch ins
 | **TH05** | [**Mystic Square**](Bin/MysticSquare) | Shooter |
 
 ### Classic Windows Era (2002-2004)
-*Requires: `wine-ge-custom`*
+*Requires: `wine`*
 
 | Ver | Title | Focus | 
 | :-: | :--- | :---: | 
@@ -56,7 +56,7 @@ yay -S np2kai-git
 ### 2. For Windows (TH06 - TH08)
  **Wine-GE**.
 ```bash
-yay -S wine-ge-custom
+yay -S wine
 ```
 
 ---

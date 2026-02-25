@@ -4,7 +4,7 @@
 
 **Шаг 1: Установка Wine (Arch Linux)**
 ```bash
-yay -S wine-ge-custom
+yay -S wine
 ```
 
 **Шаг 2: Скачивание игры**
